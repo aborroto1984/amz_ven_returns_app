@@ -6,7 +6,7 @@ from PyQt5.QtGui import QIcon
 import os
 
 # To package
-# pyinstaller --name VCRC --onefile --windowed --icon=VCRC.ico --add-data "C:\Users\Alfredo\Documents\DevFolder\new_code\amz_ven_returns_sel\amz_ven_returns_app\VCRC.ico;." main.py
+# pyinstaller --name AVRC --onefile --windowed --icon=AVRC.ico --add-data "C:\Users\Alfredo\Documents\DevFolder\new_code\amz_ven_returns_sel\amz_ven_returns_app\AVRC.ico;." main.py
 
 
 def resource_path(relative_path):
